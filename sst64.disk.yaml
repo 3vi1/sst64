@@ -1,0 +1,6 @@
+label: SST64
+id: "01"
+files:
+  - {src: build/game-boot.prg, name: sst64}
+  - {src: build/sst64.prg, name: core}
+  - {src: build/game-data.prg, name: game}

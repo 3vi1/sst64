@@ -1,0 +1,5 @@
+label: SST64REU
+id: "01"
+files:
+  - {src: build/reu-probe.prg, name: sst64reu}
+  - {src: build/reu-ending.prg, name: ending}

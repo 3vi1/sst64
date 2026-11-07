@@ -1,0 +1,4 @@
+label: SST64DATA
+id: "02"
+files:
+  - {src: build/game-data2.prg, name: game2}
